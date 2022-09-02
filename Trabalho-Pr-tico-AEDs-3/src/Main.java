@@ -437,8 +437,8 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        String caminho = "D:\\GitHub\\Cadastro-de-Prontuarios\\Trabalho-Pr-tico-AEDs-3\\src\\Arquivo\\";
-        String caminhoSimulacao = "D:\\GitHub\\Cadastro-de-Prontuarios\\Trabalho-Pr-tico-AEDs-3\\src\\Simulacao\\";
+        String caminho = "Cadastro-de-Prontuarios\\Trabalho-Pr-tico-AEDs-3\\src\\Arquivo\\";
+        String caminhoSimulacao = "Cadastro-de-Prontuarios\\Trabalho-Pr-tico-AEDs-3\\src\\Simulacao\\";
 
         try {
             Menu(caminho, caminhoSimulacao);
